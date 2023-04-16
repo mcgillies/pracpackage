@@ -2,7 +2,7 @@
 % Please edit documentation in R/add_multiply.R
 \name{add_multiply}
 \alias{add_multiply}
-\title{Title}
+\title{Multiply two numbers then add another}
 \usage{
 add_multiply(a, b, c)
 }
@@ -17,7 +17,7 @@ add_multiply(a, b, c)
 A float
 }
 \description{
-Title
+Multiply two numbers then add another
 }
 \examples{
 add_multiply(1,2,3)

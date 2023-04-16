@@ -2,7 +2,7 @@ Package: pracpackage
 Title: Basic package with mathematical functions
 Version: 0.0.0.9000
 Authors@R: 
-    person(Matthew, Gillies, role = c("aut", "cre"))
+    person("Matthew", "Gillies", role = c("aut", "cre"))
 Description: Basic package with mathematical functions.
 License: MIT + file LICENSE
 Encoding: UTF-8

@@ -1,4 +1,4 @@
-#' Title
+#' Multiply two numbers then add another
 #'
 #' @param a Number to be added after multiplication
 #' @param b First number to multiply
